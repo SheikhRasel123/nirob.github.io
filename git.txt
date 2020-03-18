@@ -1,0 +1,10 @@
+install git
+git config --global user.name "SheikhRasel123"
+git config --global user.email "myjob936@gmail.com"
+ls
+git init
+git add .
+git commit -m "url link commit"
+git status
+git remote add origin https://github.com/SheikhRasel123/url-link.git
+git push -f origin master (or -u)
